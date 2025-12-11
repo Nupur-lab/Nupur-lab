@@ -1,33 +1,32 @@
 <!-- PREMIUM HERO HEADER -->
-<p align="center">
+<p align="centre">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Nupur%20Sarkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
-</p>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2000&pause=900&center=true&vCenter=true&width=750&color=FFFFFF&lines=Data+Scientist;Python+Developer;ML+Engineer;SQL+Expert;RAG+Engineer" alt="Dynamically changing titles: Data Scientist, Python Developer, ML Engineer, etc."/>
+</div>
+</p>
 
-<!-- EYE-CATCHY ANIMATED TITLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2000&pause=900&center=true&vCenter=true&width=750&color=FFFFFF&lines=Data+Engineer;Cloud+Data+Pipelines;Python+Developer;SQL+Expert;Airflow+Orchestration;ETL+%26+Data+Quality;RAG+Engineer+(FAISS+%2B+LangChain)" />
 
-<br><br>
+
+<br>
 
 <!-- MINIMAL CONTACT LINKS -->
+<div align="center">
 <strong>
 <a href="mailto:nupur83286120@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/nupursarkar">LinkedIn</a> •
 <a href="https://github.com/Nupur-lab">GitHub</a>
 </strong>
 
-<br><br>
 
+<br>
 <img src="https://komarev.com/ghpvc/?username=Nupur-lab&label=Visitors&color=2a5298&style=flat-square" />
-
 </div>
 
----
+✨ About Me
 
-# ✨ About Me  
-
-I’m **Nupur**, a Data Engineer passionate about crafting **well-structured, reliable, and scalable pipelines**.
+I’m **Nupur**, a Data Scientist passionate about crafting **well-structured, reliable, and scalable pipelines**.
 
 I bring a design-thinking mindset to engineering:  
 **clarity, simplicity, and systems that feel effortless.**
@@ -116,11 +115,11 @@ Beautifully modular pipeline with:
 
 ---
 
-# 📊 GitHub Analytics (Minimal + Attractive)
+# 📊 GitHub Analytics 
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-ten-orpin.vercel.app/api?username=Nupur-lab&show_icons=true&theme=transparent&title_color=1e3c72&text_color=2a5298&icon_color=1e3c72" />
-  <img height="160" src="https://github-readme-stats-ten-orpin.vercel.app/api/top-langs/?username=Nupur-lab&layout=compact&theme=transparent&title_color=1e3c72&text_color=2a5298" />
+  
 </p>
 
 ---
