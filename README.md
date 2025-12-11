@@ -111,6 +111,12 @@ I enjoy:
   <img src="https://github-readme-stats-ten-orpin.vercel.app/api?username=Nupur-lab&show_icons=true&theme=radical" />
 </p>
 
+## 🔥 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nupur-lab&theme=github-compact&hide_border=true" />
+</p>
+
+
 
 
 ---
