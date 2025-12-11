@@ -103,10 +103,11 @@ I enjoy:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nupur-lab&show_icons=true&theme=radical&cache_seconds=7200" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nupur-lab&show_icons=true&theme=radical&cache_seconds=7200
-" height="180"/>
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nupur-lab&show_icons=true&theme=radical&cache_seconds=7200" />
+
+
 </p>
 
 ---
