@@ -1,15 +1,10 @@
 <!-- PREMIUM HERO HEADER -->
+
 <p align="centre">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Nupur%20Sarkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=2000&pause=900&center=true&vCenter=true&width=750&color=FFFFFF&lines=Data+Scientist;Python+Developer;ML+Engineer;SQL+Expert;RAG+Engineer" alt="Dynamically changing titles: Data Scientist, Python Developer, ML Engineer, etc."/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Nupur%20Sarkar&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=700&color=0099FF&lines=Data+Engineer;Python+%26+SQL+Developer;Airflow+Pipeline+Engineer;Cloud+Data+Engineer;RAG+%2F+FAISS+%2F+LangChain" />
 </p>
-
-
-
-<br>
+<br> -->
 
 <!-- MINIMAL CONTACT LINKS -->
 <div align="center">
@@ -20,7 +15,7 @@
 </strong>
 
 
-<br>
+<br> <r>
 <img src="https://komarev.com/ghpvc/?username=Nupur-lab&label=Visitors&color=2a5298&style=flat-square" />
 </div>
 
@@ -43,7 +38,7 @@ I love transforming **raw data → powerful, reliable systems**.
 
 ---
 
-# 🎨 Technical Skillset (Beautifully Grouped)
+# 🎨 Technical Skillset
 
 ### **Core Engineering**
 - Python  
@@ -76,8 +71,8 @@ I love transforming **raw data → powerful, reliable systems**.
 
 ---
 
-# 🚀 Projects  
-### *(Clean, eye-catchy layout)*
+#  Projects  
+
 
 ---
 
