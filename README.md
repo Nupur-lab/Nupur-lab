@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nupur Sarkar</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nupur-lab&label=Profile+Views&color=blue&style=flat" />
+</p>
+
 <h3 align="center">Data Engineer | Python | SQL | ETL | Airflow | Cloud | BFSI</h3>
 
 <p align="center">
